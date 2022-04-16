@@ -6,6 +6,7 @@
 * [Author](#author)
 * [Questions](#questions)
 * [Demo](#demo)
+* [Usage](#usage)
 * [License](#license)
 
 ## Description
@@ -20,5 +21,9 @@ https://github.com/luizmedina87
 ## Demo
 ![project demo](https://github.com/luizmedina87/readme-generator/blob/main/assets/demo.gif)
 
+## Usage
+Just run 'node index' from the project's root. Answer the questions in sequential order, and the program will generate a file in the 'dist' folder for you to use in your project.
+
 ## License
 https://opensource.org/licenses/MIT
+
