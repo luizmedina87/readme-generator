@@ -99,14 +99,13 @@ const questions = [
   },
 ];
 
-
 function writeToFile(data) {
   fs.writeFile(`./dist/README.md`, data, (err) => {
     if (err) {
       console.log(err);
     }
   });
-  console.log("File created in 'dist' folder!")
+  console.log("File created in 'dist' folder!");
 }
 
 const init = (questions) => {
